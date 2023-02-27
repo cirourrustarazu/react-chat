@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "T",
+			"path": "../.."
+		},
+		{
+			"name": "react-chat-main",
+			"path": "../../../../Downloads/react-chat-main"
+		},
+		{
+			"name": "react-chat-main2",
+			"path": "../../../../Downloads/react-chat-main2"
+		}
+	],
+	"settings": {}
+}
